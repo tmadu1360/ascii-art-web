@@ -140,9 +140,9 @@ select {
     border: 2px solid #f4a261;
     display: block;
     overflow: auto;
-    min-height: 186px;
+    min-height: 400px;
     max-height: 50vh;
-    height: 100%;
+    height: 200%;
     border-radius: 10px;
     background: linear-gradient(#1d3557, #102849);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
