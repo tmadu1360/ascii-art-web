@@ -11,8 +11,6 @@ Le projets a été fait collectivement sur git.
 le serveur Web est hebergé sur: localhost#6969
 
 ## les different ligne et algorithm Important:
-### acii-art Web:
-import= "fmt"-"html/template"-"log"-"net/https"-"os/exec"-"runtime"
-
-
 ### acii-art:
+import= "fmt"-"html/template"-"log"-"net/https"-"os/exec"-"runtime"
+ There are also four different fonts you can use : *Standard*, *Shadow*, *Thinkertoy* and *DOOM*.
